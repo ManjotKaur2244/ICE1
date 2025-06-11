@@ -5,8 +5,8 @@
 
 /**
  *
- * @author 
- * 
+ * @author kaurM
+ * Manjot Kaur
  * Student ID: 991791059
  */
 public class Card {
